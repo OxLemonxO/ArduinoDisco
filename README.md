@@ -1,3 +1,3 @@
 # ArduinoDisco
 Disco program for Arduino.
-D
+IO pins on 6 and 5.
